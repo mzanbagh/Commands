@@ -1,1 +1,12 @@
 https://github.com/mzanbagh/MkDwn-GtCmds.git
+
+
+git reset
+git reset --hard
+git pull origin master --allow-unrelated-histories
+git remote
+git remote -v
+
+git clone url
+git fetch origin
+git push origin master
