@@ -1,0 +1,5 @@
+pip freez
+pip list
+pip show html-testRunner
+pip check html-testRunner
+
