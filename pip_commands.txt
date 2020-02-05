@@ -3,3 +3,5 @@ pip list
 pip show html-testRunner
 pip check html-testRunner
 
+pip install selenium
+pip install html-testRunner
