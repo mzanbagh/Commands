@@ -1,0 +1,6 @@
+pytest.py
+py.test filename
+pytest
+pytest filename
+pytest -v
+pytest -m pytest
