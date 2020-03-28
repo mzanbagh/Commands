@@ -1,4 +1,4 @@
 ## Commands
     
-    <p>This document is a reference to the commands I found useful over time.<p>
-    <P>The commands here help me to be more efficientand more productive in a case I do not recall a specific command.<p>
+<p>This document is a reference to documents for various commands I found useful over time.<p>
+<P>The list of commands stored here in my GitHub Repo help me to recall commands in case I forgot.<p>
